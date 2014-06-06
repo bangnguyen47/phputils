@@ -16,7 +16,7 @@ class NumberUtils
 		return rand($min, $max);
 	}
 
-	public function randSequence()
+	public function getRandArray()
 	{
 		
 	}
